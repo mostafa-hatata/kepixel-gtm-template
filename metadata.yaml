@@ -1,5 +1,5 @@
 homepage: "https://kepixel.online"
-documentation: "https://github.com/YOUR_GITHUB_USERNAME/kepixel-gtm-template#readme"
+documentation: "https://github.com/mostafa-hatata/kepixel-gtm-template#readme"
 versions:
-  - sha: PUT_TEMPLATE_COMMIT_SHA_HERE
+  - sha: 0a1a247512c6d14b0db6f882674ec1be46d7800c
     changeNotes: Initial release.
