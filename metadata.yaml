@@ -1,0 +1,5 @@
+homepage: "https://kepixel.online"
+documentation: "https://github.com/YOUR_GITHUB_USERNAME/kepixel-gtm-template#readme"
+versions:
+  - sha: PUT_TEMPLATE_COMMIT_SHA_HERE
+    changeNotes: Initial release.
