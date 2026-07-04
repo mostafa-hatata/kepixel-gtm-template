@@ -1,5 +1,5 @@
 homepage: "https://kepixel.online"
 documentation: "https://github.com/mostafa-hatata/kepixel-gtm-template#readme"
 versions:
-  - sha: e5c72bb48f016a49304742b934ec760c40c648b6
+  - sha: 40d98c359892530645bb921aaae92456d3433922
     changeNotes: Initial release.
